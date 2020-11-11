@@ -17,10 +17,11 @@
 - [ ] 植入太极
 - [ ] 用户管理
 - [x] 数据加密
+- [x] 信息通知
 
 ## :e-mail:联系我们
 
 > 此脚本由海南大学机器人与人工智能协会成员共同维护
 
-- [Email](mailto:RmAlkaid@outlook.com?subject=CampusDailyAutoSign-ISSUE) **||**[Home](https://a-rai.github.io/)
+- [Email](mailto:RmAlkaid@outlook.com?subject=CampusDailyAutoSign-ISSUE)  **||** [Home](https://a-rai.github.io/) **||**[Chat Group](https://jq.qq.com/?_wv=1027&k=dwzUm8uX)
 
